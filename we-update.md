@@ -4,9 +4,9 @@
 This is an update log for WallpaperEngine [offline]
 
 
-2.2.18
+# 2.2.0.18
 
-beta
+# beta
 
 
 refer to plist for current version 
